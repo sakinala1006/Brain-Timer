@@ -7,7 +7,7 @@ Three activities in the project make use of simple data structures such as array
 
 The widgets used are textviews and buttons.
 
-A countdown timer is started when the second activity i.e., MainActivity.class starts. If you want to modify the timer settings, you can just change it int the line 74 of MainACtivity.java.
+A countdown timer is started when the second activity i.e., MainActivity.class starts. If you want to modify the timer settings, you can just change it in the line 74 of MainActivity.java.
 
 The app can be installed from the apk which can be found in the directory-
 /app/build/outputs/apk/debug/app-debug
